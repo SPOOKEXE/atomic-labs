@@ -1,21 +1,130 @@
-MIT License
+# Atomic Labs Source-Available Licence
 
-Copyright (c) 2026 SPOOK_EXE
+**Version:** Draft 1.0 — 20 October 2026  
+**Repository:** https://github.com/SPOOKEXE/atomic-labs  
+**Licensor:** **SPOOKEXE on GitHub.com**
+**Copyright notice:** Copyright © 2026 **SPOOKEXE on GitHub.com**. All rights reserved, except for rights expressly granted below.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Purpose and scope
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Atomic Labs makes certain specialised tools, utilities, plugins, shaders, scripts, libraries, simulation components and associated documentation (each a **Tool**) available with readable source code. The intention is to permit **free noncommercial use** while requiring a separately acquired licence for **commercial use**.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This Licence applies only to files or Tools for which Atomic Labs identifies this Licence as applicable and for which the Licensor has authority to grant these rights. A Tool's own licensing notice, third-party licence, or individually executed written agreement prevails over this document for that material in the event of a conflict.
+
+**Atomic Game Engine is a separate project.** This Licence does not replace its Mozilla Public License 2.0 (MPL-2.0) terms, and it does not remove rights in third-party or previously licensed code. The provided license applies to the tooling made in this repository.
+
+## 2. Definitions
+
+- **Licensor:** The legal person or organisation identified above with authority to license the applicable Tool.
+- **You / Licensee:** A person or legal entity exercising rights under this Licence.
+- **Tool:** The particular Atomic Labs software component or expressly defined group of components covered by the applicable notice or purchase record.
+- **Noncommercial Use:** Use solely for personal study, hobby work, experimentation, learning, or noncommercial research or projects, without an anticipated direct or indirect commercial purpose for that use. Whether work is noncommercial depends on the actual purpose and circumstances, not merely whether money has already been received.
+- **Commercial Use:** Use in developing, operating, delivering or supporting a revenue-generating product or service, paid work, client deliverables, business operations, monetised content or other activity pursued for commercial advantage. This includes using a Tool to generate assets or datasets intended for commercial exploitation.
+- **Project:** One independently identifiable game, application, website, service, dataset-production undertaking or other defined end product identified in the purchase record. Bug fixes, patches, ports and ordinary updates of that same end product remain within the Project; an independently marketed sequel, unrelated product or separate client commission is another Project.
+- **Purchase Record:** A receipt, order confirmation or signed licence certificate issued or expressly authorised by the Licensor identifying the applicable Tool(s), Licensee, purchased tier, and—where applicable—the Project.
+- **Lifetime:** A perpetual right of the named Licensee to use the identified Tool under the purchased tier, subject to compliance with these terms. It does **not** promise the Tool will be maintained, hosted, supported or updated forever.
+
+## 3. Free noncommercial licence
+
+Subject to compliance with this Licence, the Licensor grants You a worldwide, nonexclusive, royalty-free, nontransferable permission to:
+
+1. Access, download, inspect, study and run the covered Tool for Noncommercial Use.
+2. Modify the Tool and create adaptations for Noncommercial Use.
+3. Share unmodified or modified copies **solely for Noncommercial Use**, provided that You preserve copyright and licence notices, include a copy of this Licence, clearly identify Your modifications, and do not misrepresent Your version as an official Atomic Labs release.
+
+**No Commercial Use is granted by this section.** Access to public source code, a GitHub fork or the ability to build the Tool does not itself grant commercial rights. Recipients of redistributed copies receive only the rights expressly granted under the applicable licence.
+
+Nothing here limits rights that applicable law grants independently of this Licence.
+
+## 4. Optional paid commercial licence
+
+A commercial licence is granted **only when the Licensor issues or authorises a valid Purchase Record**, or enters into a separate written agreement granting such rights. Merely offering to pay, seeing a listed price, or claiming a licence is insufficient.
+
+Unless the Purchase Record states otherwise, a valid paid commercial licence grants the named Licensee the nonexclusive, worldwide, nontransferable, perpetual right to use and modify the identified Tool for the covered commercial scope and to distribute a finished Project incorporating the Tool where reasonably necessary for that Project to function.
+
+This licence **does not** permit distributing the Tool as a competing standalone tool, redistributing its source as a general-purpose toolkit, reselling commercial licences, or offering the Tool itself as an independently sublicensable product. End users may use Tool components embedded in a properly licensed finished Project as part of that Project; they do not receive a general commercial licence to extract and reuse those components in unrelated products.
+
+### 4.1 Per-Project Commercial Licence
+
+- Covers **one** identified commercial Project using the Tool identified in the Purchase Record.
+- Includes use by the Licensee's employees and contractors **solely while working on that licensed Project**, subject to the Licensee's responsibility for compliance.
+- Covers continued operation, maintenance, patches, ordinary upgrades and releases of the same Project without another project fee.
+- Does **not** cover independent projects or separately commissioned deliverables; those need their own licences unless a separate agreement says otherwise.
+- Is a **one-time purchase**, with no ongoing royalty for the covered Project.
+
+### 4.2 Lifetime Developer Commercial Licence
+
+- Covers **one named natural person** using the identified Tool or explicitly specified Tool bundle across **unlimited commercial Projects** during that person's lifetime.
+- Is **not** a blanket company-wide or multi-seat licence; colleagues each need their own applicable licence unless the Purchase Record or separate business agreement expressly covers them.
+- Is a **one-time purchase**, with no per-project royalties.
+- Covers the versions provided or made available under that purchase. Access to future major versions, upgrades, hosting or support is included **only when expressly offered** in the Purchase Record or published offer.
+
+### 4.3 Teams and enterprise customers
+
+Businesses needing multiple seats, broader distribution rights, source redistribution, OEM rights, platform integration or other terms must obtain a separate written agreement or suitable commercial offer from the Licensor.
+
+### 4.4 Checkout
+
+The applicable price, taxes, covered Tool(s), any bundle definition and checkout terms are those expressly presented and accepted in the purchase process. A Product listing may designate a Tool as eligible for the US price; otherwise do not assume the lower price applies.
+
+## 5. Ownership, modifications and contributions
+
+The Licensor and its respective rights holders retain ownership of their existing intellectual property. A licence grants permission to use material; it does **not** transfer copyright ownership to the Licensee.
+
+You retain any rights You independently own in Your original modifications. However, Your modifications do not change the licence applicable to the underlying Atomic Labs material, and You may not grant others broader rights in that material than You possess.
+
+**Contributing code to Atomic Labs is a separate process.** A pull request, issue or suggestion does **not** automatically transfer copyright. Atomic Labs may require a **separately signed contributor copyright assignment agreement** before merging copyrightable contributions. Contributors must have authority to assign what they submit and must disclose third-party code. Nothing in this Licence purports to transfer unassignable moral rights.
+
+## 6. Third-party code and separate licences
+
+This Licence does not override the MIT Licence, MPL-2.0, other open-source licences, asset licences or any third-party rights. Files containing such material remain governed by their applicable notices. The Licensee is responsible for complying with those terms independently.
+
+If a Tool mixes separately licensed files, the relevant licence applies to each file or component. Neither this Licence nor a paid Atomic Labs purchase removes third-party obligations.
+
+## 7. Generated content and output
+
+Atomic Labs does **not**, solely by operation of this Licence, claim ownership of original games, scenes, renders, datasets, training traces, models or other outputs produced by a Licensee using a Tool.
+
+Noncommercial use of the Tool may generate output for noncommercial purposes under Section 3. **Using the Tool to produce output for commercial purposes requires applicable commercial rights**, even if the resulting output contains no Tool source code.
+
+After properly licensed commercial generation, the resulting output may ordinarily be used, distributed and monetised without additional Atomic Labs output royalties. This does not grant rights in third-party assets, protected source code, trademarks or other material included in the output.
+
+## 8. Optional project provenance
+
+Tools may offer optional metadata or an exportable provenance manifest recording Tool names, versions, project identifiers and a licence status or receipt reference. Unless a specific separately accepted commercial agreement expressly provides otherwise:
+
+- Provenance and watermark metadata are **optional**, not conditions of a valid licence.
+- No hidden telemetry, online activation or network-based licence checks are required by this Licence.
+- A provenance record is an aid to documentation and reproducibility, **not conclusive proof of licence ownership**.
+- Do not embed personal identifying information or private receipt details in publicly distributed files without an informed choice.
+
+## 9. Restrictions and reservations
+
+Except as expressly permitted or required by applicable law, You may not:
+
+- Exercise commercial rights without the necessary commercial licence.
+- Sell, sublicense, repackage or redistribute a Tool as a competing standalone product under the noncommercial grant or a standard paid tier.
+- Remove or falsify copyright, attribution or applicable licence notices when redistributing copies.
+- Misrepresent Your versions as official Atomic Labs versions or imply endorsement.
+- Use Atomic Labs names, logos or trademarks except as legally permitted or separately authorised.
+
+All rights not expressly granted are reserved by their respective owners. This document does not grant a general patent licence or trademark licence; obtain separate permission where necessary.
+
+## 10. Compliance and termination
+
+If You materially violate this Licence, the permissions granted under it terminate to the extent permitted by law. The Licensor may notify You of a violation and permit correction, but no automatic cure period is promised unless required by law or a separate agreement.
+
+Termination does not retroactively cancel valid rights held by unrelated end users under their own licences or override rights already granted by a different applicable licence. Sections concerning ownership, notices, disclaimers, limitations, and provisions that by their nature should survive continue as legally appropriate.
+
+## 11. No warranty; limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOOL IS PROVIDED **“AS IS”** AND **“AS AVAILABLE”**, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. THE LICENSOR DOES NOT PROMISE THE TOOL WILL BE ERROR-FREE, SUITABLE FOR ANY PARTICULAR PURPOSE, OR MAINTAINED INDEFINITELY.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE LOSSES ARISING FROM USE OF THE TOOL. NOTHING IN THIS LICENCE EXCLUDES OR RESTRICTS RIGHTS OR REMEDIES THAT CANNOT LAWFULLY BE EXCLUDED OR RESTRICTED, INCLUDING APPLICABLE AUSTRALIAN CONSUMER LAW GUARANTEES.
+
+## 12. Governing law and contact
+
+Unless mandatory law or an individually signed agreement provides otherwise, this Licence is governed by the laws of **Northern Territory, Australia**, with disputes subject to the courts having jurisdiction there.
+
+For commercial licence enquiries, enterprise agreements or rights questions, contact the Licensor through the official Atomic Labs repository or the business contact method explicitly published by the Licensor. **Do not assume a licence has been issued until a valid Purchase Record or signed agreement confirms it.**
+
